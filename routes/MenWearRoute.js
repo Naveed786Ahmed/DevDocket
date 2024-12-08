@@ -1,5 +1,5 @@
 import express from "express"
-import menClothData from "../MenClothes.js"
+import menClothData from "../utils/MenClothes.js"
 
 const menWear = express.Router()
 
