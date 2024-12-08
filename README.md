@@ -78,3 +78,9 @@
         <td>Get products by fabric</td>
     </tr>
 </table>
+
+<h2 id="technologies-used">🛠️ Technologies Used</h2>
+<ul>
+    <li>Node.js</li>
+    <li>Express.js</li>
+</ul>
