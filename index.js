@@ -7,7 +7,7 @@ const app = express()
 dotenv.config()
 
 app.get("/", (req, res) => {
-    res.status(200).send("Welcome To Backend")
+    res.status(200).send("Welcome To DevDocket API")
 })
 
 // New Arrival MiddleWare
