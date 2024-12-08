@@ -1,4 +1,4 @@
-<h1>📦 API Name</h1>
+<h1>📦 DEV DOCKET</h1>
 <p><strong>Description:</strong> A simple REST API for managing product categories and details for both men and women clothing.</p>
 
 <h2>📚 Table of Contents</h2>
@@ -6,9 +6,7 @@
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#api-endpoints">API Endpoints</a></li>
-    <li><a href="#how-to-run">How to Run</a></li>
     <li><a href="#technologies-used">Technologies Used</a></li>
-    <li><a href="#contact">Contact</a></li>
 </ul>
 
 <h2 id="introduction">🚀 Introduction</h2>
