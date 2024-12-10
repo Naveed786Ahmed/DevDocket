@@ -2,9 +2,11 @@ import express from "express";
 import dotenv from "dotenv";
 import newArrival from "./routes/NewArrivalRoute.js";
 import menWear from "./routes/MenWearRoute.js";
+import cors from "cors"
 
 const app = express()
 dotenv.config()
+app.use(cors)
 
 app.get("/", (req, res) => {
     res.status(200).send("Welcome To DevDocket API")
