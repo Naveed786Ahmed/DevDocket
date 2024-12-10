@@ -6,7 +6,7 @@ import cors from "cors"
 
 const app = express()
 dotenv.config()
-app.use(cors)
+app.use(cors())
 
 app.get("/", (req, res) => {
     res.status(200).send("Welcome To DevDocket API")
