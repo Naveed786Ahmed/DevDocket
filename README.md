@@ -10,7 +10,7 @@
 </ul>
 
 <h2 id="introduction">🚀 Introduction</h2>
-<p>This API provides endpoints to access data related to <strong>Women Clothes</strong> and <strong>Men Clothes</strong>, including categories, fabrics, and specific product details. It is available at <a href="https://dev-docket-api.vercel.app/" target="_blank">https://dev-docket-api.vercel.app/</a>.</p>
+<p>This API provides endpoints to access data related to <strong>Women Clothes</strong> and <strong>Men Clothes</strong>, including categories, fabrics, and specific product details. It is available at <a href="https://dev-docket-api.vercel.app/" target="_blank">https://dev-docket-jxet.vercel.app/</a>.</p>
 
 <h2 id="features">✨ Features</h2>
 <ul>
